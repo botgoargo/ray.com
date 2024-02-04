@@ -1,0 +1,10 @@
+body[data-sidebar-size="sm"] .main-content {
+    background: #390b6b !important;
+}
+
+
+
+.right-bar-toggle layout-setting-btn{
+
+    background-color: red;
+}
